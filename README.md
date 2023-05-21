@@ -1,2 +1,2 @@
 # project-cv
-gh repo clone Tawfiq-Nafis/project-cv
+https://github.com/Tawfiq-Nafis/project-cv.git
